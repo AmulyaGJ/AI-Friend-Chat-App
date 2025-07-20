@@ -30,7 +30,8 @@ Built using HTML, CSS, and JavaScript — with plans to integrate real AI replie
 | 1   | July 18, 2025 | Project setup, chat UI created, fake AI replies added |
 
 ---
-
+## 🎥 Demo
+- [Day 1 Demo – Basic Chat UI](https://drive.google.com/file/d/1pVnz-ITe0XPmfvXs1oTShyCyosP3cWAs/view?usp=sharing)
 ## 📌 Future Goals
 
 - Integrate real AI backend (OpenAI or similar)
