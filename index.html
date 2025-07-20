@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>AI Friend Chat</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="chat-container">
-    <div id="chat-log"></div>
-    <input type="text" id="user-input" placeholder="Talk to your AI friend..." />
+  <div class="chat-container" id="chat"></div>
+  <div class="input-container">
+    <input type="text" id="userInput" placeholder="Say something..." />
     <button onclick="sendMessage()">Send</button>
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>
