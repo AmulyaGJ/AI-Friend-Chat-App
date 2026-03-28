@@ -21,7 +21,7 @@ Built using HTML, CSS, and JavaScript — with plans to integrate real AI replie
 - JavaScript  
 - (Planned: OpenAI API, Text-to-Speech, Local Storage)
 
-## 📌 Future Goals
+## Future Goals
 
 - Integrate real AI backend (OpenAI or similar)
 - Add voice support for input/output
@@ -30,12 +30,12 @@ Built using HTML, CSS, and JavaScript — with plans to integrate real AI replie
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 This is a solo project in progress. Contributions may open later!
 
 ---
 
-## 📄 License
+## License
 
 MIT License
